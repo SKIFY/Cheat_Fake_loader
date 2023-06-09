@@ -6,3 +6,8 @@ How to use:
 2. **pip install requirements.txt**
 3. Add your code
 4. Compile script to **.exe**
+
+
+
+
+![Desktop 2023 06 09 - 11 33 (online-video-cutter com)](https://github.com/flowsidee/Fake_loader/assets/84037162/7040497d-1478-4d3f-8bc9-3f48d291e2b6)
