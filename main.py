@@ -12,7 +12,7 @@ cheat_name = 'VALORANT HACK'
 target_game_proccess_names = ['valorant']
 
 files_count = random.randint(49,61)
-######################## CHANGE THIS ########################
+######################## DON'T CHANGE THIS ########################
 
 
 def set_logo(is_: bool = True):
@@ -36,6 +36,14 @@ with alive_bar(total=files_count, title='Downloading libraries', theme='smooth',
 			bar.text = 'Compiling script'
 		time.sleep(float(f'.{random.randint(1,9)}') if random.choice([True,False]) else float(f'.0{random.randint(4,9)}'))
 		bar()
+
+######################## ADD YOUR CODE ########################
+
+
+
+
+
+######################## ADD YOUR CODE ########################
 
 set_logo()
 print(f'The cheat is ready for injection, run {game_name}')
